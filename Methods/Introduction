@@ -1,0 +1,14 @@
+When we have to perform same operation again and again we use Methods.
+We create the method in the class and pass parameters in it.
+When we perform some task in our main method we call the class method in the main method.
+We pass the value after the calling the class method in the main method.
+Then those value gets passed in the class method Parametetrs. Basically it creates the copy of the value
+of the main method in the class method.
+Class methods performs the operation which we created on in it and returns the value in the main method.
+When we run the program we get the output which we required.
+
+In a Summarize form we can say that we create a Function/Method in the class and we make cases that what the class method should
+perform when it get called in the main method. This helps to maintain our main method due to the less lines of codes it becomes 
+more understandable and readable. All the activities are going in class method and it returns  the value in the main method.
+
+*Note* :- Java only support pass by value. 

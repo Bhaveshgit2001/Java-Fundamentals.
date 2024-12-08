@@ -1,0 +1,10 @@
+Strings is a sequence of characters.
+Strings are immutable and cannot be changed.
+Strings is a class but can be use like data type in.
+There are two ways to create a string as follows
+
+String str = "Bhavesh";
+String a = new String("Bhavesh");
+String Method:- Strings Method operate on java strings.
+We can use these String Method to find the length of the string.
+Can Covert lower case strings to uppercase strings etc.

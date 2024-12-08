@@ -1,0 +1,13 @@
+ Java array is an object which contains an elements of similar data types. 
+ Additionally the elements of an array stored in a contiguous memory location.
+ It is a data structure where we store similar elements.
+ We can only store fixed size of element i java array.
+
+ There are 3 ways to declare an array.
+     dataType[] arr;   
+     dataType []arr;   
+     dataType arr[];  
+    
+Instantiation of an Array in Java.
+     data_type var_name[] = new data_type[];
+ 

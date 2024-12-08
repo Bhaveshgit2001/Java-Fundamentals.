@@ -1,0 +1,10 @@
+In Variable arguements we can provide more than one arguements in a function.
+There is no need to create same methods or function for the same repeatiting task
+which performs the same operation but when we increase the arguements which is greater than
+the class methods parameter capacity we create the same method for the same tast but with
+more parameters.
+In this var args we will only create one Method/Function which will accept the every arguements for the same operation which
+we want to perform.
+
+Lets see a example and create the demonstration of the var args.
+File name :- addition_example.java
